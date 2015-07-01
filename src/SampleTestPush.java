@@ -7,5 +7,7 @@ public class SampleTestPush
 	{
 	  System.err.println("Hello!");	
 	  System.out.println(SampleTestPush.class);
+	  
+	  System.out.println("SampleTestPush"); 
 	}
 }
